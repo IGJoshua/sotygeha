@@ -51,3 +51,13 @@ Under zantufa lojban, multiple BAI are allowed to be chained before consuming a 
     broda tu'a fi ko'a
 
 Currently there are no semantics for a la'e-series cmavo when used in an I BAI BO compound cmavo.
+
+## List of eliminated selma'o
+
+The following is a list of all selma'o in the standard (CLL) Lojban grammar.
+
+**A BAI BAhE BE BEI BEhO BIhE BIhI BO BOI BU BY CAI CAhA CEI CEhE CO COI CU CUhE DAhO DOI DOhU FA FAhA FAhO FEhE FEhU FIhO FOI FUhA FUhE FUhO GA GAhO GEhU GI GIhA GOI GOhA GUhA I JA JAI JOI JOhI KE KEI KEhE KI KOhA KU KUhE KUhO LA LAU LAhE LE LEhU LI LIhU LOhO LOhU LU LUhU MAI MAhO ME MEhU MOI MOhE MOhI NA NAhE NAhE+BO NAhU NIhE NIhO NOI NU NUhA NUhI NUhU PA PEhE PEhO PU RAhO ROI SA SE SEI SEhU SI SOI SU TAhE TEI TEhU TO TOI TUhE TUhU UI VA VAU VEI VEhA VEhO VIhA VUhO VUhU XI Y ZAhO ZEI ZEhA ZI ZIhE ZO ZOI ZOhU BRIVLA CMENE**
+
+Here is the sotyge'a list.
+
+**BAI BAhE BE BEI BEhO BO BOI BU BY CEI CO COI CU DOhU FAhO FEhU FIhO FOI FUhA GA GEhU GI GOI I JAI JOI KE KEI KEhE KOhA KU KUhE KUhO LE LEhU LI LIhU LOhO LOhU LU LUhU MAI MAhO ME MEhU MOI MOhE NA NAhE NAhE+BO NAhU NIhE NIhO NOI NU PA PEhO PU ROI SA SE SEI SEhU SI SU TEI TEhU TO TOI TUhE TUhU UI VAU VEI VEhO VUhO VUhU XI Y ZEI ZO ZOI ZOhU BRIVLA**
