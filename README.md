@@ -61,7 +61,7 @@ Under this new grammar, both ko'a and ko'e are under the influence of both BAI. 
 
     broda fi la'e ko'a lu'u je ko'e
 
-This allows the scope of la'e to extend over ko'a, while fi is scoped over ko'a je ko'e. This becomes the one exception to how JA functions, in that it can now combine any two things which are the same, but it may also combine a completed BAI 
+This allows the scope of la'e to extend over ko'a, while fi is scoped over la'e ko'a lu'u je ko'e.
 
 As a part of this change, the grammar of the BAI clause changes such that it matches the grammar of a sumti, and is viable any place a sumti is viable.
 
