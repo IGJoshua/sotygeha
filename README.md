@@ -52,6 +52,19 @@ Under zantufa lojban, multiple BAI are allowed to be chained before consuming a 
 
 Currently there are no semantics for a la'e-series cmavo when used in an I BAI BO compound cmavo.
 
+### BAI ... LUhU
+In order to disambiguate in some cases with the LAhE/BAI merger a way to terminate a single BAI before the scope of an enclosing one becomes necessary. Contemplate the following jufra:
+
+    broda fi la'e ko'a je ko'e
+
+Under this new grammar, both ko'a and ko'e are under the influence of both BAI. The selma'o LUhU can be appropriated to become a new BAI terminator.
+
+    broda fi la'e ko'a lu'u je ko'e
+
+This allows the scope of la'e to extend over ko'a, while fi is scoped over ko'a je ko'e. This becomes the one exception to how JA functions, in that it can now combine any two things which are the same, but it may also combine a completed BAI 
+
+As a part of this change, the grammar of the BAI clause changes such that it matches the grammar of a sumti, and is viable any place a sumti is viable.
+
 ## List of eliminated selma'o
 
 The following is a list of all selma'o in the standard (CLL) Lojban grammar.
