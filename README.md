@@ -39,9 +39,11 @@ The following is an example sentence with translation:
 ## LAhE -> BAI
 The selma'o LAhE has been merged into the selma'o BAI.
 
-cmavo of the la'e series will take up a slot in the place structure of the bridi of which they are a part, advancing the place structure as before. The following example does not change in meaning after this merger.
+cmavo of the la'e series will take up a slot in the place structure of the bridi of which they are a part, advancing the place structure as before. This change does not affect semantics, it is only a consequence of the fact that both BAI and LAhE take structures that behave like sumti as inputs and also output such structures. The terminator for both is still LUhU. The following example does not change in meaning after this merger.
 
     ko'a broda tu'a ko'e ko'i
+
+This merge makes standard JAI, used on its own, equivalent to JAI tu'a. Other useful JAI conversions are now possible, including but not limited to: JAI la'e, JAI lu'e, and JAI zo'ei.
 
 Under zantufa lojban, multiple BAI are allowed to be chained before consuming a single sumti. la'e series cmavo will be considered to combine with the fa series of cmavo with identical meaning regardless of order. Both of the following jufra have the same meaning.
 
