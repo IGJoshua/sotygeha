@@ -13,7 +13,13 @@ This cannot be accomplished with SE, however can be approximated with JAI:
 
     ko'a jai fa je fe broda
 
-This has similar meaning, differing only in that ko'a is sumti raised.
+This has similar meaning.
+
+Note however that SE is not equivalent to JAI FA. Place structure is different:
+
+    x1 broda x2 x3 x4 x5
+    x2 se broda x1 x3 x4 x5
+    x2 jai fe broda x2 x3 x4 x5 fai x1
 
 ### I BAI BO-linked bridi
 In zantufa lojban two bridi can be linked by a BAI, semantically equal to making the second bridi into an abstraction under the BAI in the first bridi.
