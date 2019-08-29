@@ -35,3 +35,17 @@ The following is an example sentence with translation:
     .i mi troci .ifebo mi tavla do bau la .lojban.
 
 > I try to talk to you in lojban.
+
+## LAhE -> BAI
+The selma'o LAhE has been merged into the selma'o BAI.
+
+cmavo of the la'e series will take up a slot in the place structure of the bridi of which they are a part, advancing the place structure as before. The following example does not change in meaning after this merger.
+
+    ko'a broda tu'a ko'e ko'i
+
+Under zantufa lojban, multiple BAI are allowed to be chained before consuming a single sumti. la'e series cmavo will be considered to combine with the fa series of cmavo with identical meaning regardless of order. Both of the following jufra have the same meaning.
+
+    broda fi tu'a ko'a
+    broda tu'a fi ko'a
+
+Currently there are no semantics for a la'e-series cmavo when used in an I BAI BO compound cmavo.
