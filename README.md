@@ -23,3 +23,9 @@ In zantufa lojban two bridi can be linked by a BAI, semantically equal to making
 This can now be extended to the fa series of cmavo:
 
     broda .ifebo brode
+
+The following is an example sentence with translation:
+
+    .i mi troci .ifebo mi tavla do bau la .lojban.
+
+> I try to talk to you in lojban.
