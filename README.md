@@ -9,13 +9,13 @@ Under zantufa, FA can be placed before the selbri of a bridi to perform a conver
 
     ko'a fa je fe broda
 
-This cannot be accomplished with SE, however can be approximated with JAI:
+This cannot be accomplished with SE, however can be approximated with jai:
 
     ko'a jai fa je fe broda
 
 This has similar meaning.
 
-Note however that SE is not equivalent to JAI FA. Place structure is different:
+Note however that SE is not equivalent to jai FA. Place structure is different:
 
     x1 broda x2 x3 x4 x5
     x2 se broda x1 x3 x4 x5
@@ -65,6 +65,37 @@ This allows the scope of la'e to extend over ko'a, while fi is scoped over la'e 
 
 As a part of this change, the grammar of the BAI clause changes such that it matches the grammar of a sumti, and is viable any place a sumti is viable.
 
+## NAhE (and NAhE+BO) -> BAI
+The selma'o NAhE, as well as the pseudo-selma'o NAhE+BO, have both been merged into the selma'o BAI.
+
+When placed before a sumti, it has the semantics of NAhE+BO. When placed before a selbri or followed by KU, it applies the effect of the NAhE to the main selbri in the contained bridi, with the usual left-to-right scope rules. Terminator: LUhU, as with all other selma'o merged into BAI.
+
+Note that NAhE+BO has already become redundant to plain NAhE under zantufa. Here both have become redundant.
+
+## JAI -> BAI
+The selma'o JAI has been merged into the selma'o BAI.
+
+This is possible because of how zantufa allows for compound tags, e.g. bai bau, parsed as follows:
+
+    (bai bau KU) (jo'au zantufa)
+    (bai KU bau KU) (jo'au catni)
+
+The semantics of jai is still the same as before. When placed before a selbri or followed by KU in a compound tag with another BAI (which can itself be a compound tag), it moves the old x1 of its bridi to fai and replaces it with the tagged place. When on its own, it assumes tu'a to be the other BAI.
+
+## CEI -> SEI
+The selma'o CEI has been merged into the selma'o SEI.
+
+CEI has only one member, and its only use is to appear in a bridi followed by a selbri of the broda-series. It is clear that this grammar corresponds to that of SEI. No change to semantics.
+
+## VUhU -> JOI
+The selma'o VUhU has been merged into the selma'o JOI.
+
+JOI is already possible with the syntax of VUhU in mekso under zantufa, and JOI can already be controlled by PEhO and FUhA in these mekso. This change simplifies this further by allowing VUhU as non-logical connectives outside mekso, in phrases such as
+
+    ti su'i ta
+
+PEhO and FUhA remain mekso-exclusive. Operators of arity other than 2 are still handled the old-school way using zi'o and ge'a.
+
 ## List of eliminated selma'o
 
 The following is a list of all selma'o in the standard (CLL) Lojban grammar.
@@ -73,4 +104,4 @@ The following is a list of all selma'o in the standard (CLL) Lojban grammar.
 
 Here is the sotyge'a list.
 
-**BAI BAhE BE BEI BEhO BO BOI BU BY CEI CO COI CU DOhU FAhO FEhU FIhO FOI FUhA GA GEhU GI GOI I JAI JOI KE KEI KEhE KOhA KU KUhE KUhO LE LEhU LI LIhU LOhO LOhU LU LUhU MAI MAhO ME MEhU MOI MOhE NA NAhE NAhE+BO NAhU NIhE NIhO NOI NU PA PEhO PU ROI SA SE SEI SEhU SI SU TEI TEhU TO TOI TUhE TUhU UI VAU VEI VEhO VUhO VUhU XI Y ZO ZOI ZOhU BRIVLA**
+**BAI BAhE BE BEI BEhO BO BOI BU BY CO COI CU DOhU FAhO FEhU FIhO FOI FUhA GA GEhU GI GOI I JOI KE KEI KEhE KOhA KU KUhE KUhO LE LEhU LI LIhU LOhO LOhU LU LUhU MAI MAhO ME MEhU MOI MOhE NA NAhU NIhE NIhO NOI NU PA PEhO PU ROI SA SE SEI SEhU SI SU TEI TEhU TO TOI TUhE TUhU UI VAU VEI VEhO VUhO XI Y ZO ZOI ZOhU BRIVLA**
