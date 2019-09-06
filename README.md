@@ -104,6 +104,6 @@ The following is a list of all selma'o in the standard (CLL) Lojban grammar.
 
 Here is the sotyge'a list.
 
-**BAI BAhE BE BEI BEhO BO BOI BU BY CO COI CU DOhU FAhO FEhU FIhO FOI FUhA GA GEhU GI GOI I JOI KE KEI KEhE KOhA KU KUhE KUhO LE LEhU LI LIhU LOhO LOhU LU LUhU MAI MAhO ME MEhU MOI MOhE NA NAhU NIhE NIhO NOI NU PA PEhO PU ROI SA SE SEI SEhU SI SU TEI TEhU TO TOI TUhE TUhU UI VAU VEI VEhO VUhO XI Y ZO ZOI ZOhU BRIVLA**
+**BAI BAhE BE BEI BEhO BO BOI BU BY CO COI CU DOhU FAhO FEhU FIhO FOI FUhA GA GEhU GI GIhI GOI I IAU JOI KE KEI KEhE KOhA KU KUhE KUhO LE LEhU LI LIhU LOhO LOhU LU LUhU MAI MAhO ME MEhU MOI MOhE NA NIhO NOI NU PA PEhO PU ROI SA SE SEI SEhU SI SU TEI TEhU TO TOI TUhE TUhU UI VAU VEI VEhO VUhO XI Y ZO ZOI ZOhU BRIVLA**
 
-There is only one new selma'o: GIhI, the zantufa terminator for n-ary GI.
+There are only two new selma'o: GIhI, the zantufa terminator for n-ary GI, and IAU, the zantufa terminator of jufra (as opposed to bridi).
