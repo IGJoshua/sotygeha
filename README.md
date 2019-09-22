@@ -94,7 +94,29 @@ JOI is already possible with the syntax of VUhU in mekso under zantufa, and JOI 
 
     ti su'i ta
 
-PEhO and FUhA remain mekso-exclusive. Operators of arity other than 2 are still handled the old-school way using zi'o and ge'a.
+PEhO and FUhA remain mekso-exclusive. Operators of arity other than 2 are still handled the old-school way using zi'o/tu'o and ge'a.
+
+## BEI -> BE
+The selma'o BEI has been merged into the selma'o BE.
+
+So far, BEI has been used to add sumti to a selbri after the first one. This is done in order to disambiguate between:
+
+    broda be lo brode bei lo brodi = (broda (be lo brode KU) (bei lo brodi KU) BEhO)
+    broda be lo brode be lo brodi  = (broda (be lo brode (be lo brodi KU) BEhO KU) BEhO)
+
+However, such disambiguation is only needed for sumti of the type "lo broda" with an omitted KU, which is quite wasteful.
+
+Wherever the sumti is more simple, e.g. just a KOhA, BY, ZO, or similar, bei simply becomes be, with no loss of ambiguity. For example:
+
+    lo broda be .abu bei by -> lo broda be .abu be by
+
+In the only case which creates ambiguity, which is LE SELBRI, bei becomes "ku be":
+
+    lo broda be lo brode bei lo brodi -> lo brode be lo brode ku be lo brodi
+
+The selma'o named "BEI" does not disappear from sotyge'a; the old "bei" is reassigned to "bei'e", an experimental cmavo which attaches a string of sumti of any length to a selbri, terminated by be'o. This is in order to prevent the need for too much ku.
+
+    lo broda be lo brode ku be lo brodi = lo broda bei(=bei'e) lo brode lo brodi [be'o]
 
 ## List of eliminated selma'o
 
@@ -102,8 +124,8 @@ The following is a list of all selma'o in the standard (CLL) Lojban grammar.
 
 **A BAI BAhE BE BEI BEhO BIhE BIhI BO BOI BU BY CAI CAhA CEI CEhE CO COI CU CUhE DAhO DOI DOhU FA FAhA FAhO FEhE FEhU FIhO FOI FUhA FUhE FUhO GA GAhO GEhU GI GIhA GOI GOhA GUhA I JA JAI JOI JOhI KE KEI KEhE KI KOhA KU KUhE KUhO LA LAU LAhE LE LEhU LI LIhU LOhO LOhU LU LUhU MAI MAhO ME MEhU MOI MOhE MOhI NA NAhE NAhE+BO NAhU NIhE NIhO NOI NU NUhA NUhI NUhU PA PEhE PEhO PU RAhO ROI SA SE SEI SEhU SI SOI SU TAhE TEI TEhU TO TOI TUhE TUhU UI VA VAU VEI VEhA VEhO VIhA VUhO VUhU XI Y ZAhO ZEI ZEhA ZI ZIhE ZO ZOI ZOhU BRIVLA CMENE**
 
-Here is the sotyge'a list.
+The following selma'o from the above list survive in sotyge'a.
 
-**BAI BAhE BE BEI BEhO BO BOI BU BY CO COI CU DOhU FAhO FEhU FIhO FOI FUhA GA GEhU GI GIhI GOI GOhA I IAU JOI KE KEI KEhE KOhA KU KUhE KUhO LE LEhU LI LIhU LOhO LOhU LU LUhU MAI MAhO ME MEhU MOI MOhE NA NIhO NOI NU PA PEhO PU ROI SA SE SEI SEhU SI SU TEI TEhU TO TOI TUhE TUhU UI VAU VEI VEhO VUhO XI Y ZO ZOI ZOhU**
+**BAI BAhE BE BEhO BO BOI BU BY CO COI CU DOhU FAhO FEhU FIhO FOI FUhA GA GEhU GI GIhI GOI GOhA I IAU JOI KE KEI KEhE KOhA KU KUhE KUhO LE LEhU LI LIhU LOhO LOhU LU LUhU MAI MAhO ME MEhU MOI MOhE NA NIhO NOI NU PA PEhO PU ROI SA SE SEI SEhU SI SU TEI TEhU TO TOI TUhE TUhU UI VAU VEI VEhO VUhO XI Y ZO ZOI ZOhU**
 
-There are only two new selma'o: GIhI, the zantufa terminator for n-ary GI, and IAU, the zantufa terminator of jufra (as opposed to bridi).
+Some further experimental cmavo selma'o are added in sotyge'a. The list includes **BEI GIhI IAU KUhAU LEhAI LOhAI LOhOI** and possibly more.
