@@ -118,6 +118,20 @@ The selma'o named "BEI" does not disappear from sotyge'a; the old "bei" is reass
 
     lo broda be lo brode ku be lo brodi = lo broda bei(=bei'e) lo brode lo brodi [be'o]
 
+## FOI -> BOI
+The selma'o FOI has been merged into the selma'o BOI.
+
+It has also been made elidable.
+
+Because seriously, using a monosyllabic cmavo for such an obscure function is just the pinnacle of wastefulness.
+
+    me'o tei .abu .ebu foi cu se cmene zo .ac. -> me'o tei .abu .ebu [boi] cu se cmene zo .ac.
+
+## PEhO -> BAhE
+The selma'o PEhO has been merged into the selma'o BAhE.
+
+Forethought is always an option in mekso as an alternative to infix notation, and never needs to be marked explicitly. The marking with pe'o is always optional. Hence PEhO does not need to be its own selma'o. It is instead reassigned into BAhE. This changes grouping slightly, from (pe'o su'i pa boi re) to ((pe'o su'i) pa boi re), but the meaning of the structure is still the same. This is in contrast to reverse Polish notation, which requires FUhA to operate.
+
 ## List of eliminated selma'o
 
 The following is a list of all selma'o in the standard (CLL) Lojban grammar.
@@ -126,6 +140,6 @@ The following is a list of all selma'o in the standard (CLL) Lojban grammar.
 
 The following selma'o from the above list survive in sotyge'a.
 
-**BAI BAhE BE BEhO BO BOI BU BY CO COI CU DOhU FAhO FEhU FIhO FOI FUhA GA GEhU GI GIhI GOI GOhA I IAU JOI KE KEI KEhE KOhA KU KUhE KUhO LE LEhU LI LIhU LOhO LOhU LU LUhU MAI MAhO ME MEhU MOI MOhE NA NIhO NOI NU PA PEhO PU ROI SA SE SEI SEhU SI SU TEI TEhU TO TOI TUhE TUhU UI VAU VEI VEhO VUhO XI Y ZO ZOI ZOhU**
+**BAI BAhE BE BEhO BO BOI BU BY CO COI CU DOhU FAhO FEhU FIhO FUhA GA GEhU GI GOI GOhA I JOI KE KEI KEhE KOhA KU KUhE KUhO LE LEhU LI LIhU LOhO LOhU LU LUhU MAI MAhO ME MEhU MOI MOhE NA NIhO NOI NU PA PU ROI SA SE SEI SEhU SI SU TEI TEhU TO TOI TUhE TUhU UI VAU VEI VEhO VUhO XI Y ZO ZOI ZOhU**
 
 Some further experimental cmavo selma'o are added in sotyge'a. The list includes **BEI GIhI IAU KUhAU LEhAI LOhAI LOhOI** and possibly more.
