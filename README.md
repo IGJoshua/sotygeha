@@ -125,7 +125,7 @@ It has also been made elidable.
 
 Because seriously, using a monosyllabic cmavo for such an obscure function is just the pinnacle of wastefulness.
 
-    me'o tei .abu .ebu foi cu se cmene zo .ac. -> me'o tei .abu .ebu [boi] cu se cmene zo .ac.
+    me'o tei .abu .ebu foi [boi] cu se cmene zo .ac. -> me'o tei .abu .ebu [boi] [boi] cu se cmene zo .ac.
 
 ## PEhO -> BAhE
 The selma'o PEhO has been merged into the selma'o BAhE.
