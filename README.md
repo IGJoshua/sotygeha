@@ -132,6 +132,23 @@ The selma'o PEhO has been merged into the selma'o BAhE.
 
 Forethought is always an option in mekso as an alternative to infix notation, and never needs to be marked explicitly. The marking with pe'o is always optional. Hence PEhO does not need to be its own selma'o. It is instead reassigned into BAhE. This changes grouping slightly, from (pe'o su'i pa boi re) to ((pe'o su'i) pa boi re), but the meaning of the structure is still the same. This is in contrast to reverse Polish notation, which requires FUhA to operate.
 
+## NA -> SE
+The selma'o NA has been merged into the selma'o SE.
+
+NA occurs before selbri, before connectives, or before ku. SE occurs before selbri, before connectives, or before tags. (It also occurs before operators but those have already been merged with connectives.) Two of these uses already overlap, therefore NA is close to SE even under standard grammar. The other uses are made equal.
+
+"se ku" can now occur and move SE somewhere else than before the main selbri. Scope is the same as with NA - from left to right, and with SE before the main selbri having top priority. The following three jufra are identical in meaning:
+
+    .i broda se ku te ku .i se te broda .i se broda te ku .i te ku se broda
+
+"na BAI" now means the same as "BAI nai".
+
+In addition, any number of SE, as opposed to just one, is now allowed before connectives and tags - since NA is now part of SE. The following become grammatical:
+
+    .i se te pi'o .i na se pi'o .i se na pi'o .i mi se te .u do .i mi na se .u do .i mi se na .u do
+
+(Under zantufa, NA also includes CAhA. CAhA is therefore now also part of SE.)
+
 ## List of eliminated selma'o
 
 The following is a list of all selma'o in the standard (CLL) Lojban grammar.
@@ -140,6 +157,6 @@ The following is a list of all selma'o in the standard (CLL) Lojban grammar.
 
 The following selma'o from the above list survive in sotyge'a.
 
-**BAI BAhE BE BEhO BO BOI BU BY CO COI CU DOhU FAhO FEhU FIhO FUhA GA GEhU GI GOI GOhA I JOI KE KEI KEhE KOhA KU KUhE KUhO LE LEhU LI LIhU LOhO LOhU LU LUhU MAI MAhO ME MEhU MOI MOhE NA NIhO NOI NU PA ROI SA SE SEI SEhU SI SU TEI TEhU TO TOI TUhE TUhU UI VAU VEI VEhO VUhO XI Y ZO ZOI ZOhU**
+**BAI BAhE BE BEhO BO BOI BU BY CO COI CU DOhU FAhO FEhU FIhO FUhA GA GEhU GI GOI GOhA I JOI KE KEI KEhE KOhA KU KUhE KUhO LE LEhU LI LIhU LOhO LOhU LU LUhU MAI MAhO ME MEhU MOI MOhE NIhO NOI NU PA ROI SA SE SEI SEhU SI SU TEI TEhU TO TOI TUhE TUhU UI VAU VEI VEhO VUhO XI Y ZO ZOI ZOhU**
 
 Some further experimental cmavo selma'o are added in sotyge'a. The list includes **BEI GIhI IAU KUhAU LEhAI LOhAI LOhOI** and possibly more.
