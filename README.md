@@ -147,6 +147,8 @@ In addition, any number of SE, as opposed to just one, is now allowed before con
 
     .i se te pi'o .i na se pi'o .i se na pi'o .i mi se te .u do .i mi na se .u do .i mi se na .u do
 
+Note that "na se .u" is not the same as "se na .u". The first one negates input 1 to "se .u", i.e. it is true when input 2 is true. The second one swaps the places of "na .u", i.e. it is true when input 2 is false.
+
 (Under zantufa, NA also includes CAhA. CAhA is therefore now also part of SE.)
 
 ## List of eliminated selma'o
