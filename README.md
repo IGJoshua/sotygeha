@@ -137,7 +137,7 @@ The selma'o NA has been merged into the selma'o SE.
 
 NA occurs before selbri, before connectives, or before ku. SE occurs before selbri, before connectives, or before tags. (It also occurs before operators but those have already been merged with connectives.) Two of these uses already overlap, therefore NA is close to SE even under standard grammar. The other uses are made equal.
 
-"se ku" can now occur and move SE somewhere else than before the main selbri. Scope is the same as with NA - from left to right, and with SE before the main selbri having top priority. The following three jufra are identical in meaning:
+"se ku" can now occur and move SE somewhere else than before the main selbri. Scope is the same as with NA - from left to right, and with SE before the main selbri having outermost scope. The following three jufra are identical in meaning:
 
     .i broda se ku te ku .i se te broda .i se broda te ku .i te ku se broda
 
