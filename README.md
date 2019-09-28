@@ -146,7 +146,7 @@ The following selma'o from the above list survive in sotyge'a.
 Some further experimental cmavo selma'o are added in sotyge'a. The list includes **GIhI IAU KUhAU LEhAI LOhAI LOhOI** and possibly more.
 
 # Optional Merges
-Occasionally there are some selma'o which can be merged but which would have a more significant impact on intercompatability between old and new texts. Merges like those which can be considered a part of sotyge'a but which are not required for its use are listed below.
+Occasionally there are some selma'o which can be merged but which would have a more significant impact on intercompatibility between old and new texts. Merges like those which can be considered a part of sotyge'a but which are not required for its use are listed below.
 
 ## BEI -> BE
 The selma'o BEI has been merged into the selma'o BE.
@@ -166,6 +166,6 @@ In the only case which creates ambiguity, which is LE SELBRI, bei becomes "ku be
 
     lo broda be lo brode bei lo brodi -> lo brode be lo brode ku be lo brodi
 
-The selma'o named "BEI" does not disappear from sotyge'a; the old "bei" is reassigned to "bei'e", an experimental cmavo which attaches a string of sumti of any length to a selbri, terminated by be'o. This is in order to prevent the need for too much ku.
+Optionally, one can instead use "bei'e", an experimental cmavo which attaches a string of sumti of any length to a selbri, terminated by be'o. This is in order to prevent the need for too much ku.
 
-    lo broda be lo brode ku be lo brodi = lo broda bei(=bei'e) lo brode lo brodi [be'o]
+    lo broda be lo brode ku be lo brodi = lo broda bei'e lo brode lo brodi [be'o]
