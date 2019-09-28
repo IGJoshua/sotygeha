@@ -146,7 +146,7 @@ The following selma'o from the above list survive in sotyge'a.
 Some further experimental cmavo selma'o are added in sotyge'a. The list includes **GIhI IAU KUhAU LEhAI LOhAI LOhOI** and possibly more.
 
 # Optional Merges
-Occasionally there are some selma'o merges which can be merged but which would have a more significant impact on intercompatability between old and new texts. Merges like those which can be considered a part of sotyge'a but which are not required for its use are listed below.
+Occasionally there are some selma'o which can be merged but which would have a more significant impact on intercompatability between old and new texts. Merges like those which can be considered a part of sotyge'a but which are not required for its use are listed below.
 
 ## BEI -> BE
 The selma'o BEI has been merged into the selma'o BE.
