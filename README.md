@@ -100,28 +100,6 @@ JOI is already possible with the syntax of VUhU in mekso under zantufa, and JOI 
 
 PEhO and FUhA remain mekso-exclusive. Operators of arity other than 2 are still handled the old-school way using zi'o/tu'o and ge'a.
 
-## BEI -> BE
-The selma'o BEI has been merged into the selma'o BE.
-
-So far, BEI has been used to add sumti to a selbri after the first one. This is done in order to disambiguate between:
-
-    broda be lo brode bei lo brodi = (broda (be lo brode KU) (bei lo brodi KU) BEhO)
-    broda be lo brode be lo brodi  = (broda (be lo brode (be lo brodi KU) BEhO KU) BEhO)
-
-However, such disambiguation is only needed for sumti of the type "lo broda" with an omitted KU, which is quite wasteful.
-
-Wherever the sumti is more simple, e.g. just a KOhA, BY, ZO, or similar, bei simply becomes be, with no loss of ambiguity. For example:
-
-    lo broda be .abu bei by -> lo broda be .abu be by
-
-In the only case which creates ambiguity, which is LE SELBRI, bei becomes "ku be":
-
-    lo broda be lo brode bei lo brodi -> lo brode be lo brode ku be lo brodi
-
-The selma'o named "BEI" does not disappear from sotyge'a; the old "bei" is reassigned to "bei'e", an experimental cmavo which attaches a string of sumti of any length to a selbri, terminated by be'o. This is in order to prevent the need for too much ku.
-
-    lo broda be lo brode ku be lo brodi = lo broda bei(=bei'e) lo brode lo brodi [be'o]
-
 ## FOI -> BOI
 The selma'o FOI has been merged into the selma'o BOI.
 
@@ -163,6 +141,31 @@ The following is a list of all selma'o in the standard (CLL) Lojban grammar.
 
 The following selma'o from the above list survive in sotyge'a.
 
-**BAI BAhE BE BEhO BO BOI BU BY CO COI CU DOhU FAhO FEhU FIhO FUhA GA GEhU GI GOI GOhA I JOI KE KEI KEhE KOhA KU KUhE KUhO LE LEhU LI LIhU LOhO LOhU LU LUhU MAI MAhO ME MEhU MOI MOhE NIhO NOI NU PA ROI SA SE SEI SEhU SI SU TEI TEhU TO TOI TUhE TUhU UI VAU VEI VEhO VUhO XI Y ZO ZOI ZOhU**
+**BAI BAhE BE BEI BEhO BO BOI BU BY CO COI CU DOhU FAhO FEhU FIhO FUhA GA GEhU GI GOI GOhA I JOI KE KEI KEhE KOhA KU KUhE KUhO LE LEhU LI LIhU LOhO LOhU LU LUhU MAI MAhO ME MEhU MOI MOhE NIhO NOI NU PA ROI SA SE SEI SEhU SI SU TEI TEhU TO TOI TUhE TUhU UI VAU VEI VEhO VUhO XI Y ZO ZOI ZOhU**
 
-Some further experimental cmavo selma'o are added in sotyge'a. The list includes **BEI GIhI IAU KUhAU LEhAI LOhAI LOhOI** and possibly more.
+Some further experimental cmavo selma'o are added in sotyge'a. The list includes **GIhI IAU KUhAU LEhAI LOhAI LOhOI** and possibly more.
+
+# Optional Merges
+Occasionally there are some selma'o merges which can be merged but which would have a more significant impact on intercompatability between old and new texts. Merges like those which can be considered a part of sotyge'a but which are not required for its use are listed below.
+
+## BEI -> BE
+The selma'o BEI has been merged into the selma'o BE.
+
+So far, BEI has been used to add sumti to a selbri after the first one. This is done in order to disambiguate between:
+
+    broda be lo brode bei lo brodi = (broda (be lo brode KU) (bei lo brodi KU) BEhO)
+    broda be lo brode be lo brodi  = (broda (be lo brode (be lo brodi KU) BEhO KU) BEhO)
+
+However, such disambiguation is only needed for sumti of the type "lo broda" with an omitted KU, which is quite wasteful.
+
+Wherever the sumti is more simple, e.g. just a KOhA, BY, ZO, or similar, bei simply becomes be, with no loss of ambiguity. For example:
+
+    lo broda be .abu bei by -> lo broda be .abu be by
+
+In the only case which creates ambiguity, which is LE SELBRI, bei becomes "ku be":
+
+    lo broda be lo brode bei lo brodi -> lo brode be lo brode ku be lo brodi
+
+The selma'o named "BEI" does not disappear from sotyge'a; the old "bei" is reassigned to "bei'e", an experimental cmavo which attaches a string of sumti of any length to a selbri, terminated by be'o. This is in order to prevent the need for too much ku.
+
+    lo broda be lo brode ku be lo brodi = lo broda bei(=bei'e) lo brode lo brodi [be'o]
