@@ -1,5 +1,9 @@
 # sotyge'a
-sotyge'a is a grammar for the lojban language based on zantufa which is intended to reduce the number of selma'o.
+sotyge'a is a grammar for the lojban language based on zantufa which is intended to reduce the number of selma'o. It has three primary goals:
+
+* Reduce number of selma'o
+* Allow new valid jufra with meanings which are intuitive for speakers of zantufa lojban
+* Minimize change in existing texts required to conform to sotyge'a
 
 ## FA -> BAI
 The selma'o FA has been merged into the selma'o BAI.
