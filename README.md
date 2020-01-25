@@ -188,3 +188,8 @@ In the only case which creates ambiguity, which is LE SELBRI, bei becomes `ku be
 Optionally, one can instead use `be ke`, a termset (since `nu'i` is now in KE), and then terminate with `ke'e [be'o]`.
 
     lo broda be lo brode ku be lo brodi = lo broda be ke lo brode lo brodi [ke'e] [be'o]
+
+## CU -> ZOhU
+The selma'o CU has been merged into the selma'o ZOhU.
+
+The functions of CU and ZOhU are already very similar, with the only important difference being that `je cu` is by far the most common way (in grammars that no longer use GIhA) to link bridi-tails. In order to completely merge CU with ZOhU, it is necessary to unlearn `je cu` and use `vau je` instead for bridi-tail connecting.
