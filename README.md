@@ -7,28 +7,29 @@ sotyge'a is a grammar for the lojban language based on zantufa which is intended
 
 ## Inherited changes from zasni-gerna/zantufa
 
-* GOhA, CMEVLA -> BRIVLA
-* CUhE, FAhA, KI, PU, TAhE, VA, VEhA, VIhA, ZAhO, ZEhA, ZI -> BAI
-* PEhE -> BAhE
-* CEhE -> BO
-* LAU, TEI, FOI -> BY
-* DOI -> COI
-* A, BIhI, GIhA, JA, ZIhE -> JOI
-* NUhI -> KE
-* NUhU -> KEhE
-* LA -> LE
-* NAhU -> MAhO
-* NUhA -> ME
-* NIhE -> MOhE
-* CAhA -> NA
-* FEhE, MOhI -> NAhE
-* SOI -> SEI
-* ZEI -> SI
-* CAI, DAhO, FUhE, FUhO, GAhO, NAI, RAhO -> UI
-* JOhI -> VUhU
-
+* **Cmavo merges:**
+    * GOhA, CMEVLA -> BRIVLA
+    * CUhE, FAhA, KI, PU, TAhE, VA, VEhA, VIhA, ZAhO, ZEhA, ZI -> BAI
+    * PEhE -> BAhE
+    * CEhE -> BO
+    * LAU, TEI, FOI -> BY
+    * DOI -> COI
+    * A, BIhI, GIhA, JA, ZIhE -> JOI
+    * NUhI -> KE
+    * NUhU -> KEhE
+    * LA -> LE
+    * NAhU -> MAhO
+    * NUhA -> ME
+    * NIhE -> MOhE
+    * CAhA -> NA
+    * FEhE, MOhI -> NAhE
+    * SOI -> SEI
+    * ZEI -> SI
+    * CAI, DAhO, FUhE, FUhO, GAhO, NAI, RAhO -> UI
+    * JOhI -> VUhU
 * Eliminated BIhE, GUhA
 * `gi'i` moved to own selma'o GIhI
+* `iau` with its own selma'o introduced
 
 ## FA -> BAI
 The selma'o FA has been merged into the selma'o BAI.
@@ -144,6 +145,13 @@ Note that `na se .u` is not the same as `se na .u`. The first one negates input 
 
 (Under zantufa, NA also includes CAhA. CAhA is therefore now also part of SE.)
 
+## Other changes
+
+* Relative clauses are allowed after selbri, as in zasni-gerna and zantufa.
+* Due to the VUhU-JOI merge, PEhO now becomes obligatory.
+* n-ary `gi` now also allows the degenerate case of only one term.
+* SA remains in the grammar, but always erases back to the last mulno jufra (marked by explicit or elidable `iau`).
+
 ## List of eliminated selma'o
 
 The following is a list of all selma'o in the standard (CLL) Lojban grammar.
@@ -154,7 +162,7 @@ The following selma'o from the above list survive in sotyge'a.
 
 **BAI BAhE BE BEI BEhO BO BOI BU BY CO COI CU DOhU FAhO FEhU FIhO FUhA GA GEhU GI GOI GOhA I JOI KE KEI KEhE KOhA KU KUhE KUhO LE LEhU LI LIhU LOhO LOhU LU LUhU MAI MAhO ME MEhU MOI MOhE NIhO NOI NU PA ROI SA SE SEI SEhU SI SU TEI TEhU TO TOI TUhE TUhU UI VAU VEI VEhO VUhO XI Y ZO ZOI ZOhU**
 
-In addition, **GIhI** is a new selma'o in sotyge'a (inherited from zantufa) which is not in the CLL grammar.
+In addition, **GIhI** and **IAU** are two new selma'o in sotyge'a (inherited from zantufa) which are not in the CLL grammar.
 
 # Optional Merges
 Occasionally there are some selma'o which can be merged but which would have a more significant impact on intercompatibility between old and new texts. Merges like those which can be considered a part of sotyge'a but which are not required for its use are listed below.
