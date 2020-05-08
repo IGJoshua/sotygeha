@@ -193,3 +193,8 @@ Optionally, one can instead use `be ke`, a termset (since `nu'i` is now in KE), 
 The selma'o CU has been merged into the selma'o ZOhU.
 
 The functions of CU and ZOhU are already very similar, with the only important difference being that `je cu` is by far the most common way (in grammars that no longer use GIhA) to link bridi-tails. In order to completely merge CU with ZOhU, it is necessary to unlearn `je cu` and use `vau je` instead for bridi-tail connecting.
+
+## CU -> BAI
+Alternatively, CU can be merged into BAI.
+
+The cmavo cu becomes a modal for ku'ai'i. This has no significant impact on current usage patterns.
