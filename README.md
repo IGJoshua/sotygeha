@@ -197,4 +197,4 @@ The functions of CU and ZOhU are already very similar, with the only important d
 ## CU -> BAI
 Alternatively, CU can be merged into BAI.
 
-The cmavo cu becomes a modal for ku'ai'i. This has no significant impact on current usage patterns.
+The cmavo `cu` becomes a modal for `ku'ai'i`. This has no significant impact on current usage patterns.
