@@ -145,6 +145,11 @@ Note that `na se .u` is not the same as `se na .u`. The first one negates input 
 
 (Under zantufa, NA also includes CAhA. CAhA is therefore now also part of SE.)
 
+## CU -> BAI
+The selma'o CU has been merged into the selma'o BAI.
+
+The cmavo `cu` becomes a modal for `ku'ai'i`. This has no significant impact on current usage patterns or meaning.
+
 ## Other changes
 
 * Relative clauses are allowed after selbri, as in zasni-gerna and zantufa.
@@ -190,11 +195,6 @@ Optionally, one can instead use `be ke`, a termset (since `nu'i` is now in KE), 
     lo broda be lo brode ku be lo brodi = lo broda be ke lo brode lo brodi [ke'e] [be'o]
 
 ## CU -> ZOhU
-The selma'o CU has been merged into the selma'o ZOhU.
+As a potential replacement for the CU->BAI merge, the selma'o CU has been merged into the selma'o ZOhU.
 
 The functions of CU and ZOhU are already very similar, with the only important difference being that `je cu` is by far the most common way (in grammars that no longer use GIhA) to link bridi-tails. In order to completely merge CU with ZOhU, it is necessary to unlearn `je cu` and use `vau je` instead for bridi-tail connecting.
-
-## CU -> BAI
-Alternatively, CU can be merged into BAI.
-
-The cmavo `cu` becomes a modal for `ku'ai'i`. This has no significant impact on current usage patterns.
