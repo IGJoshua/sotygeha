@@ -126,25 +126,6 @@ JOI is already possible with the syntax of VUhU in mekso under zantufa, and JOI 
 
 PEhO and FUhA remain mekso-exclusive. Operators of arity other than 2 are still handled the old-school way using `zi'o`/`tu'o` and `ge'a`.
 
-## NA -> SE
-The selma'o NA has been merged into the selma'o SE.
-
-NA occurs before selbri, before connectives, or before `ku`. SE occurs before selbri, before connectives, or before tags. (It also occurs before operators but those have already been merged with connectives.) Two of these uses already overlap, therefore NA is close to SE even under standard grammar. The other uses are made equal.
-
-"SE ku" can now occur and move SE somewhere else than before the main selbri. Scope is the same as with NA - from left to right, and with SE before the main selbri having outermost scope. The following three jufra are identical in meaning:
-
-    .i broda se ku te ku .i se te broda .i se broda te ku .i te ku se broda
-
-"na BAI" now means the same as "BAI nai".
-
-In addition, any number of SE, as opposed to just one, is now allowed before connectives and tags - since NA is now part of SE. The following become grammatical:
-
-    .i se te pi'o .i na se pi'o .i se na pi'o .i mi se te .u do .i mi na se .u do .i mi se na .u do
-
-Note that `na se .u` is not the same as `se na .u`. The first one negates input 1 to `se .u`, i.e. it is true when input 2 is true. The second one swaps the places of `na .u`, i.e. it is true when input 2 is false.
-
-(Under zantufa, NA also includes CAhA. CAhA is therefore now also part of SE.)
-
 ## CU -> BAI
 The selma'o CU has been merged into the selma'o BAI.
 
@@ -165,7 +146,7 @@ The following is a list of all selma'o in the standard (CLL) Lojban grammar.
 
 The following selma'o from the above list survive in sotyge'a.
 
-**BAI BAhE BE BEI BEhO BO BOI BU BY CO COI DOhU FAhO FEhU FIhO FUhA GA GEhU GI GOI GOhA I JOI KE KEI KEhE KOhA KU KUhE KUhO LE LEhU LI LIhU LOhO LOhU LU LUhU MAI MAhO ME MEhU MOI MOhE NIhO NOI NU PA ROI SA SE SEI SEhU SI SU TEI TEhU TO TOI TUhE TUhU UI VAU VEI VEhO VUhO XI Y ZO ZOI ZOhU**
+**BAI BAhE BE BEI BEhO BO BOI BU BY CO COI DOhU FAhO FEhU FIhO FUhA GA GEhU GI GOI GOhA I JOI KE KEI KEhE KOhA KU KUhE KUhO LE LEhU LI LIhU LOhO LOhU LU LUhU MAI MAhO ME MEhU MOI MOhE NA NIhO NOI NU PA ROI SA SE SEI SEhU SI SU TEI TEhU TO TOI TUhE TUhU UI VAU VEI VEhO VUhO XI Y ZO ZOI ZOhU**
 
 In addition, **GIhI** and **IAU** are two new selma'o in sotyge'a (inherited from zantufa) which are not in the CLL grammar.
 
@@ -198,3 +179,22 @@ Optionally, one can instead use `be ke`, a termset (since `nu'i` is now in KE), 
 As a potential replacement for the CU->BAI merge, the selma'o CU has been merged into the selma'o ZOhU.
 
 The functions of CU and ZOhU are already very similar, with the only important difference being that `je cu` is by far the most common way (in grammars that no longer use GIhA) to link bridi-tails. In order to completely merge CU with ZOhU, it is necessary to unlearn `je cu` and use `vau je` instead for bridi-tail connecting.
+
+## NA -> SE
+The selma'o NA has been merged into the selma'o SE.
+
+NA occurs before selbri, before connectives, or before `ku`. SE occurs before selbri, before connectives, or before tags. (It also occurs before operators but those have already been merged with connectives.) Two of these uses already overlap, therefore NA is close to SE even under standard grammar. The other uses are made equal.
+
+"SE ku" can now occur and move SE somewhere else than before the main selbri. Scope is the same as with NA - from left to right, and with SE before the main selbri having outermost scope. The following three jufra are identical in meaning:
+
+    .i broda se ku te ku .i se te broda .i se broda te ku .i te ku se broda
+
+"na BAI" now means the same as "BAI nai".
+
+In addition, any number of SE, as opposed to just one, is now allowed before connectives and tags - since NA is now part of SE. The following become grammatical:
+
+    .i se te pi'o .i na se pi'o .i se na pi'o .i mi se te .u do .i mi na se .u do .i mi se na .u do
+
+Note that `na se .u` is not the same as `se na .u`. The first one negates input 1 to `se .u`, i.e. it is true when input 2 is true. The second one swaps the places of `na .u`, i.e. it is true when input 2 is false.
+
+(Under zantufa, NA also includes CAhA. CAhA is therefore now also part of SE.)
