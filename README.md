@@ -165,7 +165,7 @@ The following is a list of all selma'o in the standard (CLL) Lojban grammar.
 
 The following selma'o from the above list survive in sotyge'a.
 
-**BAI BAhE BE BEI BEhO BO BOI BU BY CO COI CU DOhU FAhO FEhU FIhO FUhA GA GEhU GI GOI GOhA I JOI KE KEI KEhE KOhA KU KUhE KUhO LE LEhU LI LIhU LOhO LOhU LU LUhU MAI MAhO ME MEhU MOI MOhE NIhO NOI NU PA ROI SA SE SEI SEhU SI SU TEI TEhU TO TOI TUhE TUhU UI VAU VEI VEhO VUhO XI Y ZO ZOI ZOhU**
+**BAI BAhE BE BEI BEhO BO BOI BU BY CO COI DOhU FAhO FEhU FIhO FUhA GA GEhU GI GOI GOhA I JOI KE KEI KEhE KOhA KU KUhE KUhO LE LEhU LI LIhU LOhO LOhU LU LUhU MAI MAhO ME MEhU MOI MOhE NIhO NOI NU PA ROI SA SE SEI SEhU SI SU TEI TEhU TO TOI TUhE TUhU UI VAU VEI VEhO VUhO XI Y ZO ZOI ZOhU**
 
 In addition, **GIhI** and **IAU** are two new selma'o in sotyge'a (inherited from zantufa) which are not in the CLL grammar.
 
